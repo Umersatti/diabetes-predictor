@@ -14,7 +14,5 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Visit `http://localhost:5000` and send POST data via Postman or curl.
-
-## Author
-Your Name
+Your author
+Muhammad Umer Asif
