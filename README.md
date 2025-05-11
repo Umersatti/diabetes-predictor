@@ -1,6 +1,6 @@
 # Diabetes Predictor 🧠
 
-A simple logistic regression model to predict diabetes based on health data.
+A logistic regression model to predict diabetes based on health data.
 
 ## Features
 - Binary classification using the Pima Indians Diabetes dataset
@@ -14,5 +14,3 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Your author
-Muhammad Umer Asif
